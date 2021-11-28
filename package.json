@@ -1,0 +1,15 @@
+{
+    "name": "cypress-automation-test-for-purchase-flow",
+    "version": "1.0.0",
+    "description": "This repo contains a test framework with tests for saucelabs purchase flow using Cypress.",
+    "private": true,
+    "scripts": {
+      "cypress": "cypress open",
+      "cypress:all": "cypress run"
+    },
+    "devDependencies": {},
+    "dependencies": {
+      "cypress": "^9.1.0"
+    }
+  }
+  

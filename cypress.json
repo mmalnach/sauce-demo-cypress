@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://www.saucedemo.com/",
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "chromeWebSecurity": false,
+    "supportFile": "cypress/commands/index.js"
+  }
